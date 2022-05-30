@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sopesamuel
-- 👀 I’m interested in ...Data Anlytics and Web 3
+- 👋 Hi, I’m Mosope Fasusi
+- 👀 I’m interested in ... JavaScript and Web 3
 - 🌱 I’m currently learning ... Web 3
 - 💞️ I’m looking to collaborate on ... Web 3
 - 📫 How to reach me ...
