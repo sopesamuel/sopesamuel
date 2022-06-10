@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mosope Fasusi
-- 👀 I’m interested in ... JavaScript and Web 3
-- 🌱 I’m currently learning ... Web 3
+- 👨🏿‍💻 I'm a Full Stack Engineer/Developer 
+- 👀 I’m interested in blockchain technologies
+-  I’m currently learning frontend frameworks and blockchain languages. 
 - 💞️ I’m looking to collaborate on ... Web 3
 - 📫 How to reach me ...
 
