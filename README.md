@@ -1,8 +1,8 @@
 # Hi! I'm Mosope :man:
 -About Me:man_technologist:
 
--:basecamp: I'm a Full Stack Engineer/Developer 
 - 👀 I’m interested in blockchain technologies
+- :basecamp: I'm a Full Stack Engineer/Developer
 - :gear: I’m currently learning frontend frameworks and blockchain languages. 
 - :earth_africa: Currently open to Engineering roles.
 - :8ball: Watching Football, Listening to music and exploring new things are my hobbies.
