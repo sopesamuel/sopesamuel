@@ -1,9 +1,9 @@
 # Hi! I'm Mosope :man:
 -About Me:man_technologist:
 
-- 👀 I’m a Mobile Developer.
+- 👀 I’m a Software Engineer.
 - :lock: I'm interested in blockchain technologies.
-- :gear: I’m currently learning frontend frameworks and blockchain languages. 
+- :gear: I’m currently learning Backend Engineering. 
 - :earth_africa: Currently open to Engineering roles.
 - :8ball: Watching Football, Listening to music and exploring new things are my hobbies.
 - :white_flag:EVERYONE SHOULD BE GIVEN A CHANCE.
